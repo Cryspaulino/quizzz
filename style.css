@@ -1,0 +1,26 @@
+body {
+  margin: 50px;
+  overflow: hidden;
+  justify-items: center;
+}
+
+main {
+  justify-items: center;
+}
+
+#canvas {
+  display: block;
+  background: #fff;
+  border: 1px solid #ccc;
+  cursor: crosshair;
+  width: 700px;
+  height: 700px;
+  margin: 20px;
+}
+
+#clear{
+  background-color: rgb(137, 194, 196);
+  padding: 10px;
+  width: 100px;
+
+}
