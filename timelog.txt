@@ -48,7 +48,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |7         |9:00am    |IM      |Adding more const for each class and if stt |1 hour       |
 |7         |11:50am   |IM      |Improving quiz, changing approach           |1 h 50 min   |
 |7         |2:00pm    |MTG     |Individual review                           |1 hour       |
-|7         |3:35pm    |IM      |Fixing bugs, recording video and submission |30+ min (til done)|
+|7         |3:35pm    |IM      |Fixing bugs, recording video and submission |30+ min (til done) **1 h 30min|
 
 
 _Note: Add more rows as needed._
@@ -57,7 +57,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         | 10 hours                 |
+|IM - Individual Module         | 11 hours 30 min          |
 |TP - Team Project              | 4 hours                  |
 |MTG - Class Meetings           | 4 hours                  |
 |**TOTAL**                      | 18 hours                 |
