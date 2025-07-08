@@ -6,14 +6,14 @@ const Question_1 = require("./Question");
 exports.questionz = [
     new Question_1.Question('What is 92 mod 56?', ['36', '87', '2'], 'a', '36'),
     new Question_1.Question('What is the result of 2^5 mod 7?', ['4', '3', '2'], 'a', '4'),
-    new Question_1.Question('How many subsets does a set with 4 elements have?', ['8', '16', '4'], 'b', '16'),
-    new Question_1.Question('What is the greatest common divisor (GCD) of 36 and 48?', ['6', '12', '18'], 'b'),
-    new Question_1.Question('Which traversal method visits the root node before its subtrees?', ['Post-order', 'Pre-order', 'In-order'], 'b'),
-    new Question_1.Question('Which of the following is a tautology?', ['P ∨ ¬P', 'P ∧ ¬P', '¬(P ∧ Q)'], 'a'),
-    new Question_1.Question('How many elements are in the set {1, 2, 3}?', ['2', '3', '4'], 'b'),
-    new Question_1.Question('Which symbol means "and" in logic?', ['∨', '∧', '¬'], 'b'),
-    new Question_1.Question('What is the result of 10 mod 3?', ['1', '2', '3'], 'a'),
-    new Question_1.Question('Which of the following is a set?', ['(2, 3)', '[2, 3]', '{2, 3}'], 'c'),
+    // new Question('How many subsets does a set with 4 elements have?', ['8', '16', '4'], 'b', '16'),
+    // new Question('What is the greatest common divisor (GCD) of 36 and 48?', ['6', '12', '18'], 'b'),
+    // new Question('Which traversal method visits the root node before its subtrees?', ['Post-order', 'Pre-order', 'In-order'], 'b'),
+    // new Question('Which of the following is a tautology?', ['P ∨ ¬P', 'P ∧ ¬P', '¬(P ∧ Q)'], 'a'),
+    // new Question('How many elements are in the set {1, 2, 3}?', ['2', '3', '4'], 'b'),
+    // new Question('Which symbol means "and" in logic?', ['∨', '∧', '¬'], 'b'),
+    // new Question('What is the result of 10 mod 3?', ['1', '2', '3'], 'a'),
+    // new Question('Which of the following is a set?', ['(2, 3)', '[2, 3]', '{2, 3}'], 'c'),
 ];
 // 📊 Business Analytics
 exports.questiona = [

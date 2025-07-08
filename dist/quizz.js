@@ -63,6 +63,7 @@ function startQuiz() {
                             }
                             else {
                                 console.log("❌ Oops! Try again or type exit to stop the quiz.");
+                                --score;
                             }
                         }
                         if (exit) {
